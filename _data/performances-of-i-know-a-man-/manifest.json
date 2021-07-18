@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/chelsea.json",
+            "label": "Chelsea"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert.json",
             "label": "Rupert"
           }
