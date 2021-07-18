@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "I Know A Man: Prototype " ] },
+    "summary": { "en": [ "Four peers read the Robert Creeley poem I Know A Man. And then, Creeley reads his poem. " ] },
+    "items": [
+    ]
+}
