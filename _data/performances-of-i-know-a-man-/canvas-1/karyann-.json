@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/karyann-.json",
+  "type": "AnnotationPage",
+  "label": "Karyann ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/karyann--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I Know A Man by Robert Creeley ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00,00:03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/karyann--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As I said to my friend",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:03,00:05"
+        }
+      }
+    }
+  ]
+}
