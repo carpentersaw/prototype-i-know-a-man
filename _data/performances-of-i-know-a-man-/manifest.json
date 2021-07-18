@@ -42,6 +42,12 @@
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/karyann.json",
             "label": "Karyann"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/isabel.json",
+            "label": "Isabel"
+          }
         ],
         "items": [
           {
