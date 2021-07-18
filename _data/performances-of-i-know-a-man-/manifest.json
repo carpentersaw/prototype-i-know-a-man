@@ -23,14 +23,6 @@
         "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 159.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/karyann.json",
-            "label": "Karyann"
-          }
-        ],
         "items": [
           {
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/paintings",
