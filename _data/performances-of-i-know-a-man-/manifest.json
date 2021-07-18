@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Performances of I Know A Man " ] },
+    "homepage": [
+      {
+        "id": "https://www.dropbox.com",
+        "type": "Text",
+        "label": { "en": [ "Performances of I Know A Man " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.dropbox.com",
+        "type": "Agent",
+        "label": { "en": [ "PennSound" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 159.0,
+        "items": [
+          {
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.dropbox.com/s/4met0jtbyk7il7n/I%20Know%20a%20Man%20Read%20by.mp3?raw=1",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 159.0
+                },
+                "target": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
