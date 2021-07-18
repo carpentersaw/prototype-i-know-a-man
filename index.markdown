@@ -5,7 +5,7 @@
 layout: home
 
 I Know a Man
-<i>by Robert Creeley<i>
+by Robert Creeley
 
 As I sd to my
 friend, because I am
