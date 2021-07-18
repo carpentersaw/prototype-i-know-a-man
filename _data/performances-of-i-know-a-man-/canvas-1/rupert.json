@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert.json",
+  "type": "AnnotationPage",
+  "label": "Rupert",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I Know A Man by Robert Creeley ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "58.971282"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As I sd to my",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "62.891118"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "friend, because I am",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "63.772568"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "always talking, - John, I ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "65.634091"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "sd, which was not his",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "68.931821"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "name, the darkness sur-",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "70.534457"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "ounds us, what",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "72.580899"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "can we do against ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "74.202027"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "it, or else, shall we &",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "75.114296"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "why not, buy a goddamn big car, ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "78.566127"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "drive, he sd, for ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "83.004195"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "christ's sake, look",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "84.760930"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas/rupert-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out where yr going.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "86.067694"
+        }
+      }
+    }
+  ]
+}
