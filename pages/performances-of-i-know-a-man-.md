@@ -7,24 +7,25 @@ external_manifest_url:
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+I Know A Man
+By Robert Creeley
 
- 
-
-I Know a Man
-by Robert Creeley
-
-As I sd to my
+As I sd to my 
 friend, because I am
-always talking,—John, I
+always talking, John,—I
 
-sd, which was not his
+sd, which was not his 
 name, the darkness sur-
-rounds us, what
+ounds us, what
 
 can we do against
 it, or else, shall we &
 why not, buy a goddamn big car,
 
-drive, he sd, for
-christ’s sake, look
-out where yr going.
+drive, he sd, for 
+chrit's sake, look 
+out where yr going. 
+
+ 
+
+.
