@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://carpentersaw.github.io/prototype-i-know-a-man/performances-of-i-know-a-man-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Performances of I Know A Man " ] },
+    "label": { "en": [ "Performances of I Know a Man " ] },
     "homepage": [
       {
         "id": "https://www.dropbox.com",
         "type": "Text",
-        "label": { "en": [ "Performances of I Know A Man " ] },
+        "label": { "en": [ "Performances of I Know a Man " ] },
         "format": "text/html"
       }
     ],
