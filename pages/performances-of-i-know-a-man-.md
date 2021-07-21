@@ -9,7 +9,8 @@ external_manifest_url:
 using HTML or markdown.  Do not modify this file above this line -->
  
  <h2>I Know a Man<h2><br>
- *By Robert Creeley*
+ <em>By Robert Creeley<em>
+  
  
  
  In my conversation with TISH poet Robert Hogg (See the 27:23 min mark of the SpokenWeb podcast https://spokenweb.ca/podcast/episodes/robert-hogg-the-widening-circle-of-return/) we discuss how understanding  the poem “I Know a Man” hinges on hearing Creeley perform the poem. Charles Olson, often referred to as the father of postmodern poetics, quotes Creeley in his seminal Projective Verse essay as stating: “FORM IS NEVER MORE THAN AN EXTENSION OF CONTENT.”  
