@@ -23,6 +23,14 @@
         "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 137.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/san-francisco-state-university-may-20--1956.json",
+            "label": "San Francisco State University May 20, 1956"
+          }
+        ],
         "items": [
           {
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/paintings",
