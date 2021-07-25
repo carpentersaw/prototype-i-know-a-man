@@ -23,38 +23,6 @@
         "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 202.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/bolinas-california-july--1971.json",
-            "label": "Bolinas California July, 1971"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/vancouver-poetry-conference-aug-12--1963.json",
-            "label": "Vancouver Poetry Conference Aug 12, 1963"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/harvard-university-oct--27--1966.json",
-            "label": "Harvard University Oct. 27, 1966"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/san-francisco-state-university-may-20--1956.json",
-            "label": "San Francisco State University May 20, 1956"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/bolinas-california-circa-1965---70.json",
-            "label": "Bolinas California circa 1965 - 70"
-          }
-        ],
         "items": [
           {
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/paintings",
