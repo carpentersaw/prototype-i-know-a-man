@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "I Know a Man " ] },
+    "homepage": [
+      {
+        "id": "https://www.dropbox.com",
+        "type": "Text",
+        "label": { "en": [ "I Know a Man " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "http://writing.upenn.edu/pennsound",
+        "type": "Agent",
+        "label": { "en": [ "PennSound" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 137.0,
+        "items": [
+          {
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.dropbox.com/s/57lsdbqt2ufxh1v/I%20Know%20a%20Man%20Various%20Creeley%20Performances.mp3?raw=1",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 137.0
+                },
+                "target": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
