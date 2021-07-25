@@ -8,24 +8,24 @@ external_manifest_url:
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 
-<b>I Know a Man<b><p>
+<b>I Know a Man</b><p>
   <em>By Robert Creeley<em><p>
     
-  As I sd to my<b> 
-  friend, because I am<b>
-  always talking, -John, I<b><p>
+  As I sd to my<br> 
+  friend, because I am<br>
+  always talking, -John, I<br><p>
   
-  sd, which was not his<b>
-  name, the darkness sur-<b>
-  rounds us, what<b><p>
+  sd, which was not his<br>
+  name, the darkness sur-<br>
+  rounds us, what<br><p>
   
-  can we do against<b>
-  it, or else, shall we &<b>
-  why not, buy a goddamn big car,<b><p>
+  can we do against<br>
+  it, or else, shall we &<br>
+  why not, buy a goddamn big car,<br><p>
     
-  drive, he sd, for<b>
-  christ's sake, look<b>
-  out where yr going.<b><p> 
+  drive, he sd, for<br>
+  christ's sake, look<br>
+  out where yr going.<br><p> 
 
 This prototype is concerned with evolving a literary scholarship attentive to or rooted in the performed versions of poems. One challenge with studying performed poems has been the inability to attentively listen to lines in and out of order, or to return to and go back to a line. When a poem is read on the page we can read it in and out of order to decipher its meaning. Sound cannot be paused and is ephemeral in nature. This fleeting nature of sound challenges scholarly analysis. This prototype explores the use of the tool AudiAnnotate to aid in the study of recorded/sounded poetry. As Charles Bernstein writes in introduction to "Close Listening: Poetry and the Performed Word", poetry readings and performed poems have not been given equal critical attention compared to printed and published poems. What if performed poetry is studied as a primary source? What can we learn that we cannot from its written counterpart? In order to begin explore new ways of studying performed poetry I am employing the tool AudiAnnotate. Initially developed to generate a means to annotate audio files, I have approached the tool a little differently by editing several recitations of one poem into a single audio file. I import the single audio file into the program Audacity where I then generate time stamped labels of its lines that can be imported into a manifest in the AudiAnnotate platform. Users interfacing with the project can now use the annotated manifest to listen more precisely to separate lines of the poem across different readings.<p>
 
