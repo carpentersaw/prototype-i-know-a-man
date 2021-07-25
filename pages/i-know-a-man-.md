@@ -9,7 +9,7 @@ external_manifest_url:
 using HTML or markdown.  Do not modify this file above this line -->
 
 <b>I Know a Man</b><p>
-  <em>By Robert Creeley<em><p>
+  <em>By Robert Creeley</em><p>
     
   As I sd to my<br> 
   friend, because I am<br>
