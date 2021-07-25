@@ -33,6 +33,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/harvard-university-oct--27--1966.json",
+            "label": "Harvard University Oct. 27, 1966"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/san-francisco-state-university-may-20--1956.json",
             "label": "San Francisco State University May 20, 1956"
           }
