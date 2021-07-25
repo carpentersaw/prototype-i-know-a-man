@@ -27,12 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/vancouver-poetry-conference-aug-12--1963.json",
-            "label": "Vancouver Poetry Conference Aug 12, 1963"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/san-francisco-state-university-may-20--1956.json",
             "label": "San Francisco State University May 20, 1956"
           }
