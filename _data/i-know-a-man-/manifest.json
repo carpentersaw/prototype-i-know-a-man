@@ -45,6 +45,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem.json",
+            "label": "Sound Description and Speech Not the poem"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/san-francisco-state-university-may-20--1956.json",
             "label": "San Francisco State University May 20, 1956"
           }

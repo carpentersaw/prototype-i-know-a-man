@@ -1,0 +1,365 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem.json",
+  "type": "AnnotationPage",
+  "label": "Sound Description and Speech Not the poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound is muffled. Could be that the mic was not close; perhaps in the audience.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.545377"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "23.387779"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"These are all poems...I want/need a cigarette...I'll be back\" (cough and faint steps off stage)  ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "56.364041"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "loud transient. Step or sound of microphone placement",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "74.437569"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Noise floor of tape. Buzz of room or of the recording",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "79.777187"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Does anyone have a match I can borrow?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "82.567486"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Transient. Sound of mic placement or bump on mic near podium ?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "88.832976"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"These are hard to get back into...such particular senses of the way that the life... things were then. It's hard. Let me try a few more and see what happens...\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "91.318878"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"...one otherwise... \"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "114.884222"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This recoridng is a better quality. The noise floor lower and the signal much clearer. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "117.116462"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hit on the microphone here. Is this a lavaliere microphone?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "140.288627"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laughter. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "142.191104"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Inaudible mumbles by Creeley and then \"Or this. This is one last ...\"  ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "144.537491"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Much louder noise floor.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "150.054674"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recorded too loud. Close to peaking. It also sounds like the playback speed of the tape altered his voice that sounds higher than usual. Was this tape digitized on a different machine at a speed that was different from its recorded speed? ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "152.540576"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This recording picks up Creeley's breath a lot more. Is this a lavaliere mic or a condenser mic close up?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "175.890306"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas/sound-description-and-speech-not-the-poem-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recoridng is quite hot; very loud and near peaking. Also, you hear ghost voices beneath as if the tape was not properly erased.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://carpentersaw.github.io/prototype-i-know-a-man/i-know-a-man-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "186.607591"
+        }
+      }
+    }
+  ]
+}
