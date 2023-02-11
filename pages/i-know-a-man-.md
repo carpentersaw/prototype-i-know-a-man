@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: I Know a Man 
 manifest_name: i-know-a-man-
 permalink: i-know-a-man-/
